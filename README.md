@@ -1,4 +1,6 @@
-<h1>Turma 15 grupo 5</h1>
+<h1>Trabalho de Linguagens e Tecnologias Web (Web Languages and Technologies)</h1>
+
+<h2>Turma 15 grupo 5</h2>
 
 - Henrique Silva (up202105647@fe.up.pt)
 - Lara Cunha (up202108876@fe.up.pt)
