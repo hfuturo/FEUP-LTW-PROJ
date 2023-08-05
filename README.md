@@ -7,8 +7,7 @@
 <h2>Comandos para executar projeto</h2>
 
 ```
-git clone git@github.com:FEUP-LTW-2023/project-ltw15g05.git
-cd project-ltw15g05
+git clone git@github.com:hfuturo/FEUP-LTW-PROJ.git
 sqlite3 database/database.db < database/database.sql
 php -S localhost:9000
 ```
