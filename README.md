@@ -9,7 +9,6 @@
 ```
 git clone git@github.com:FEUP-LTW-2023/project-ltw15g05.git
 cd project-ltw15g05
-git checkout final-delivery-v3
 sqlite3 database/database.db < database/database.sql
 php -S localhost:9000
 ```
