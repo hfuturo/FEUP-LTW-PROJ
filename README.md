@@ -8,6 +8,7 @@
 
 ```
 git clone git@github.com:hfuturo/FEUP-LTW-PROJ.git
+cd FEUP-LTW-PROJ
 sqlite3 database/database.db < database/database.sql
 php -S localhost:9000
 ```
